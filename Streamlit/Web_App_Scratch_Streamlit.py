@@ -70,7 +70,7 @@ def main():
 
     st.markdown(subheader_templ,unsafe_allow_html=True)
 
-    st.sidebar.image("nlp.jpeg", use_column_width=True)
+    st.sidebar.image("https://www.centreofexcellence.com/app/uploads/2016/09/nlp-diploma-course.jpg", use_column_width=True)
 
     activity = ["Text Analysis", "Translation", "Sentiment Analysis", "About"]
     choice = st.sidebar.selectbox("Menu",activity)
