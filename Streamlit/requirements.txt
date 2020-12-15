@@ -3,7 +3,7 @@ matplotlib==3.3.3
 neattext==0.0.9
 
 streamlit==0.72.0
-textblob==0.15.3
+textblob
 wordcloud==1.8.1
 
 spacy>=2.2.0,<3.0.0
